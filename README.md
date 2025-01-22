@@ -14,6 +14,8 @@
 
 *PLATFORM USED*: JUPITER NOTEBOOK
 
+*TOOLS USED*: VIRTUAL ENVIRONMENT
+
 *DESCRIPTION*:
 
 This project involves constructing a machine learning model to identify spam messages using Python's powerful libraries. Here's an in-depth look at each step involved:
