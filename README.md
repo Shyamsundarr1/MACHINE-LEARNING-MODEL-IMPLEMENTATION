@@ -49,3 +49,7 @@ sklearn.naive_bayes: Specifically the MultinomialNB class, to create and train t
 sklearn.metrics: Specifically the accuracy_score, confusion_matrix, and classification_report functions, to evaluate the model's performance.
 
 These libraries provide the necessary tools to preprocess the text data, train the model, make predictions, and evaluate the results effectively.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/07b89105-f33f-4887-9885-2a35e6b295df)
